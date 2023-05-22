@@ -1,0 +1,1 @@
+Este es el primer texto de este archivo de ejemplo para el vídeo de GIT
