@@ -1,1 +1,1 @@
-Este es el primer texto de este archivo de ejemplo para el vídeo de GIT
+Este es el primer texto de este archivo de ejemplo para el vídeo de GIT. Modifico el capitulo 1 para la nueva rama alien-plot 

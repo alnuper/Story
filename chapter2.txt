@@ -1,1 +1,1 @@
-Este es el capítulo 2 sobre el tema de GIT
+Este es el capítulo 2 sobre el tema de GIT. Modificando el archivo para ir por la rama alient-plot
